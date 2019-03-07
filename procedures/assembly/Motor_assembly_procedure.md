@@ -27,4 +27,12 @@ Use the **flat screwdriver** to screw the **3** well aligned **screws** (see pic
 
 ## 3. Criterion of acceptability and refusal :
 
+To approve the motor and support assembly, we must get two pieces forming one new stable piece : the screws are well sunked into the support and maintain the motor without any mechanical slack.
+
+
+
+
+
+
+
 
