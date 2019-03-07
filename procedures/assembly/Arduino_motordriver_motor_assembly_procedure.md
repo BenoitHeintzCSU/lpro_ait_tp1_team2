@@ -1,7 +1,7 @@
 # Arduino shield motor assembly procedure 
 
 
-Purpose: This sheet describes how to mount the shield to the arduino and then assembly the motor.
+Purpose: This sheet describes how to mount the motor driver to the arduino and then assembly the motor.
 
 
 ## 1. Preparation / material needed :
