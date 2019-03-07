@@ -9,7 +9,7 @@ Purpose: This sheet describes how to mount the motor to the blue support.
 ## 2.operating mode :
 
 Place the **motor** shaft towards the outside of the **support** (see picture).
-
+![alt tag](<img src="https://github.com/BenoitHeintzCSU/lpro_ait_tp1_team2/issues/2" width="50px"/>)
 
 
 Align the **motor**'s holes with the **support**'s ones (see picture).
