@@ -4,9 +4,9 @@ Purpose: This sheet describes how to mount the motor to the blue support.
 
 ## 1. Preparation / material needed :
 
--1 Motor : EMG30        
--3 screw : M3 6mm       
--1 Flat screw driver
+- EMG30 motor x1     
+- M3 6mm  screwsx3   
+- Flat screw driver x1
 
 ## 2. Operating mode :
 
