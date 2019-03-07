@@ -9,7 +9,7 @@ Purpose: This sheet describes how to mount the motor to the blue support.
 ## 2.operating mode :
 
 Place the **motor** shaft towards the outside of the **support** (see picture).
-![alt text](<img src="https://user-images.githubusercontent.com/47211507/53947003-2f6e3f00-40c5-11e9-93d8-94144b4c1c36.jpg" width="50px"/>)
+![alt tag](<img src="https://user-images.githubusercontent.com/47211507/53947003-2f6e3f00-40c5-11e9-93d8-94144b4c1c36.jpg" width="50px"/>)
 
 
 Align the **motor**'s holes with the **support**'s ones (see picture).
