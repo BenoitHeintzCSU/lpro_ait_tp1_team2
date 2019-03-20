@@ -26,6 +26,8 @@ This led ON/OFF cycle depends of the motor's connection.
 | Rotating motor 2s (anticlockwise)   | Rotation + ON LED     |     |      |
 | Rotating motor 2s (normal clockwise)     | Rotation + OFF LED       |       |   |
 
+## 3. Criterion of acceptability and refusal :
+
 - **If the supposed situation matches with the observed one, we can validate the test of the motor.** 
 
 
