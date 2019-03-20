@@ -33,10 +33,10 @@ All **reports** will be written as a *.md* file in a folder `/reports/...`.
 
 ## 3. Octopus 9DOF module assembly - Compass only (HMC5883L)
 
-1. Same exercice as previously. Complete previous assembly and test procedures.
+1. Same exercise as previously. Complete previous assembly and test procedures.
     - Use power supply on the motor driver blue connectors.
-    - <span style="color:red">**Double check you plugged power supply properly. I don't have spare modules!! If the red LED does not turn on, unplug the USB cable.**</span>
-    - The compass might not have its 0 value aligned with the magnetic North. We won't mind about this during this TP. (In real life an offset has to be foud and applied... ask Augustin and François if you want to know more.)
+    - <span style="color:red">**Double check your plugged power supply properly. I don't have spare modules!! If the red LED does not turn on, unplug the USB cable.**</span>
+    - The compass might not have its 0 value aligned with the magnetic North. We won't mind about this during this TP. (In real life an offset has to be found and applied... ask Augustin and François if you want to know more.)
 
 ## 4. System control
 
