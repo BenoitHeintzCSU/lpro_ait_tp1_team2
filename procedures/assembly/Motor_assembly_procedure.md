@@ -1,3 +1,6 @@
+# Correction
+* <span style="color:red">Put **/Procedures** folder in **/docs**.</span>
+
 # Motor assembly procedure 
 
 Purpose: This sheet describes how to mount the motor to the blue support.
@@ -5,7 +8,7 @@ Purpose: This sheet describes how to mount the motor to the blue support.
 ## 1. Preparation / material needed :
 
 - EMG30 motor x1     
-- M3 6mm  screwsx3   
+- M3 6mm  screwsx3   <span style="color:red">Space is missing</span>
 - Flat screw driver x1
 
 ## 2. Operating mode :

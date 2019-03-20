@@ -1,3 +1,6 @@
+# Correction
+* <span style="color:red">Put **/Procedures** folder in **/docs**.</span>
+
 # Arduino shield motor assembly procedure 
 
 Purpose: This sheet describes how to test the program  and  the motor.
@@ -15,7 +18,7 @@ The purpose of this program is to make the motor rotating 2 secondes in anticlok
 lit led on the Arduino, then to rotate 2 secondes on the normal clockwise, with the OFF Led. 
 This led ON/OFF cycle depends of the motor's connection.
 
-To test the program, we will follow the arduino_motordrivers_motor_assembly_procedure and then implement the Arduino program, as well as the different libraries obtained from the Github instructions. If we observe the different steps described in the previous paragraph, we can validate the test of the motor. 
+To test the program, we will follow the arduino_motordrivers_motor_assembly_procedure and then implement the Arduino program <span style="color:red">Which one??</span>, as well as the different libraries obtained from the Github instructions. If we observe the different steps described in the previous paragraph, we can validate the test of the motor. 
 
 
 	
