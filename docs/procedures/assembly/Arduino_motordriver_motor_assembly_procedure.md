@@ -1,5 +1,5 @@
-# Correction
-* <span style="color:red">Put **/Procedures** folder in **/docs**.</span>
+
+
 
 # Arduino shield motor assembly procedure 
 
@@ -22,7 +22,7 @@ Put the **jumper** on the V_out pins, and the **Pololu DRV8835** on the Arduino.
 
 <img src="https://user-images.githubusercontent.com/47211507/53951621-28e4c500-40cf-11e9-8eeb-dc1f659d55cd.jpg" width="200px"/>
 
-The **motor's** alimentation wires are put in the **Pololu's** connectors to let the **Arduino** and the **motor** communicating (see picture). <span style="color:red">Not clear. They don't *communicate*. The motor driver just drives the motor by turning on and off the transistors in its H-bridge.</span>
+Put the **motor's** alimentation wires in the **Pololu's** connectors (see picture).
 
 <img src="https://user-images.githubusercontent.com/47211507/53951726-68abac80-40cf-11e9-8c10-d4e11074aefc.jpg" width="200px"/>
 
